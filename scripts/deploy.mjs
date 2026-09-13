@@ -56,7 +56,7 @@ config.vars = {
   ADMIN_PASSWORD: cfg.adminPassword,
 };
 config.routes = [{ pattern: cfg.hostname, zone_id: cfg.zoneId }];
-delete config.workers_dev; // 只通过自定义域名提供（*.workers.dev 在国内不可访问）
+config.workers_dev = false; // 只通过自定义域名提供（*.workers.dev 在国内不可访问）
 
 mkdirSync(".sites-runtime", { recursive: true });
 const outPath = resolve(".sites-runtime/deploy-wrangler.json");
