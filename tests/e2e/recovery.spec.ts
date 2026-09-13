@@ -1,0 +1,14 @@
+import { expect, test } from "@playwright/test";
+import { getScale } from "../../lib/assessment/registry";
+test("network retry, keyboard answers, clear one draft, legacy remains usable",async({page})=>{
+ const waitForSave=()=>page.waitForResponse(response=>response.request().method()==="PUT"&&response.url().includes("/api/study/attempts/"));
+ await page.goto("/");await page.getByRole("checkbox").nth(0).check();await page.getByRole("checkbox").nth(1).check();await page.getByRole("button",{name:"开始测量"}).click();await expect(page).toHaveURL(/assessments$/);
+ await page.goto("/assessments/ai-attitude");await expect(page.locator(".answer-options")).toBeVisible();
+ await page.route("**/api/study/attempts/*",route=>route.request().method()==="PUT"?route.fulfill({status:503,contentType:"application/json",body:JSON.stringify({error:"测试网络中断"})}):route.continue());
+ await page.locator("input[type=radio]").first().focus();await page.keyboard.press("Space");await expect(page.getByRole("alert")).toContainText("测试网络中断");await expect(page.getByRole("status")).toContainText("尚未保存");
+ await page.unroute("**/api/study/attempts/*");await page.getByRole("button",{name:"重试保存"}).click();await expect(page.getByRole("status")).toHaveText("已保存到数据库");await page.getByText("查看全部题目进度").click();await expect(page.getByRole("button",{name:"第 1 题，已作答"})).toBeVisible();await page.reload();await expect(page.locator("input[type=radio]").first()).toBeChecked();
+ await page.getByRole("button",{name:"退出并清除本次草稿"}).click();await page.getByRole("button",{name:"确认清除本次草稿"}).click();await expect(page).toHaveURL(/assessments$/);const rows=(await (await page.request.get("/api/study/attempts")).json()).attempts;expect(rows[0].status).toBe("withdrawn");expect(rows[0].answers).toEqual({});expect(rows[0].scores).toBeNull();
+ await page.goto("/assessments/legacy");await expect(page.locator(".progress-caption")).toContainText("/ 28");await expect(page.locator(".answer-options")).toBeEnabled();const firstSaved=waitForSave();await page.locator('input[name="P1"][value="3"]').check({force:true});await firstSaved;await expect(page.getByRole("status")).toHaveText("已保存到数据库");
+ const attempts=(await (await page.request.get("/api/study/attempts")).json()).attempts;const draft=attempts.find((attempt:{scaleId:string;status:string})=>attempt.scaleId==="legacy"&&attempt.status==="draft");const legacy=getScale("legacy")!;const answers=Object.fromEntries(legacy.items.map(item=>[item.id,3]));const completed=await page.request.post(`/api/study/attempts/${draft.id}/complete`,{headers:{origin:"http://127.0.0.1:5173"},data:{answers,revision:draft.revision,cursor:0}});expect(completed.ok()).toBe(true);await page.goto(`/results/${draft.id}`);
+ await expect(page.getByRole("heading",{name:"旧版28题探索问卷",exact:true})).toBeVisible();await expect(page.getByRole("meter")).toHaveCount(6);
+});

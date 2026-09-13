@@ -1,0 +1,4 @@
+@import "tailwindcss" source(none);
+@import "./mindcompass.css";
+@source "./";
+@source "../components/mindcompass";

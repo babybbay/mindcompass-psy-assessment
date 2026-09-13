@@ -1,0 +1,1 @@
+CREATE TABLE `responses` (`id` integer PRIMARY KEY AUTOINCREMENT NOT NULL,`created_at` text DEFAULT CURRENT_TIMESTAMP NOT NULL,`age_band` text,`answers` text NOT NULL,`extraversion` real NOT NULL,`agreeableness` real NOT NULL,`conscientiousness` real NOT NULL,`neuroticism` real NOT NULL,`openness` real NOT NULL,`ai_attitude` real NOT NULL);
