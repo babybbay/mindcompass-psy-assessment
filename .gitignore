@@ -51,3 +51,4 @@ next-env.d.ts
 !.env.example
 /deploy-config.json
 /psywebsite-source.zip
+/tsconfig.tsbuildinfo
