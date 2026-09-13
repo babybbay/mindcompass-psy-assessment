@@ -1,6 +1,6 @@
 # MindCompass 心智罗盘
 
-> **线上测评平台：https://mindcompassforai.xyz**（教育与研究性自我探索，18 岁及以上参与者；管理后台 /admin 仅研究者可登录）
+> **线上测评平台：[https://mindcompassforai.xyz](https://mindcompassforai.xyz)**（教育与研究性自我探索，18 岁及以上参与者；管理后台 /admin 仅研究者可登录）
 
 用于18岁及以上参与者的非商业教育／研究性自我探索。结果不构成临床、医学或心理诊断，不替代专业意见。没有常模、诊断阈值、虚构用户数或评价。
 
