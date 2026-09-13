@@ -117,6 +117,7 @@ Sites构建助手在本机的npm启动路径解析失败；直接调用项目同
 | docs/SCORING.md | 可读公式、键、聚合、缺失、阈值和统计口径 |
 | docs/SCALE_SOURCES.md | 语言、出处、改写、许可与限制 |
 | docs/PRELAUNCH_CHECKLIST.md | 来源、隐私、真实10人、异常数据人工清单 |
+| docs/AI_DEVELOPMENT_PROCESS.md | 交付物C：完整 AI 辅助开发过程（问题分解/提示词/架构/测试/错误与纠正） |
 | components/mindcompass/admin-login.tsx | 管理密码登录表单（新增） |
 | scripts/deploy.mjs | 自托管构建→迁移→wrangler deploy 管线（新增） |
 | scripts/manual-score-verify.mjs | 端到端计分人工复验脚本（新增） |
