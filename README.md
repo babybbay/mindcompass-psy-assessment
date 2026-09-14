@@ -114,6 +114,7 @@ API访问时清理过期数据，worker/index.ts有每日计划处理函数，vi
 - [技术报告草稿](docs/TECHNICAL_REPORT.md)
 - [上线前人工清单](docs/PRELAUNCH_CHECKLIST.md)
 - [10人真实试用空白模板](docs/PILOT_EVALUATION_TEMPLATE.md)
+- [试用汇总数据](docs/pilot-summary.json)（仅聚合统计：人数、完成率、维度均值与分布；不含逐人答卷）
 - [文件与验证交付清单](docs/DELIVERY.md)
 
 反馈入口仅收集分类。配置RESEARCH_CONTACT_EMAIL后，隐私与反馈页会显示负责人邮箱；未配置时后台明确标记为待处理。10人试用仅检验可用性，不证明量表效度或建立常模。

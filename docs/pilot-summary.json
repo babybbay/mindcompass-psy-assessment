@@ -1,0 +1,6528 @@
+{
+  "participants": 3,
+  "legacyCount": 0,
+  "legacySummary": {
+    "count": 0,
+    "validCount": 0,
+    "averages": {
+      "extraversion": null,
+      "agreeableness": null,
+      "conscientiousness": null,
+      "neuroticism": null,
+      "openness": null,
+      "aiAttitude": null
+    },
+    "itemDistributions": {
+      "P1": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P2": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P3": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P4": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P5": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P6": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P7": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P8": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P9": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P10": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P11": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P12": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P13": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P14": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P15": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P16": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P17": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P18": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P19": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "P20": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "AI1": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "AI2": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "AI3": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "AI4": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "AI5": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "AI6": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "AI7": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ],
+      "AI8": [
+        {
+          "value": 1,
+          "count": 0
+        },
+        {
+          "value": 2,
+          "count": 0
+        },
+        {
+          "value": 3,
+          "count": 0
+        },
+        {
+          "value": 4,
+          "count": 0
+        },
+        {
+          "value": 5,
+          "count": 0
+        }
+      ]
+    }
+  },
+  "groups": [
+    {
+      "scale": {
+        "id": "ai-attitude",
+        "version": "exploratory-2026-09-12",
+        "versionDate": "2026-09-12",
+        "name": "对人工智能的态度",
+        "category": "attitudes",
+        "purpose": "区分采纳意愿、风险担忧与审慎使用，避免将不同倾向混成一个分数。",
+        "minutes": "3–5",
+        "language": "zh-CN",
+        "exploratory": true,
+        "instructions": "请根据自己的通常态度作答，而不是别人期待你怎样回答。",
+        "limitations": "仅供教育与研究探索，不构成临床、医学或心理诊断，不能替代专业意见。不提供常模、百分位或正常/异常判断。结果受作答情境、自我报告与题目理解影响。探索性自编问卷，维度是理论启发下的设计假设，尚未验证因子结构或信效度。",
+        "source": {
+          "id": "mindcompass-ai-attitude",
+          "citation": "MindCompass 项目原创题目（AI辅助起草，2026-09-12）；待人工认知访谈与审核。",
+          "url": "",
+          "permission": "项目本次原创中文措辞，不复制第三方量表题干；仅用于本项目教育/研究探索。",
+          "adaptation": "依据产品测量目标新编，不宣称改编自已验证量表。"
+        },
+        "options": [
+          {
+            "value": 1,
+            "label": "非常不同意"
+          },
+          {
+            "value": 2,
+            "label": "不同意"
+          },
+          {
+            "value": 3,
+            "label": "不确定"
+          },
+          {
+            "value": 4,
+            "label": "同意"
+          },
+          {
+            "value": 5,
+            "label": "非常同意"
+          }
+        ],
+        "scoring": {
+          "min": 1,
+          "max": 5,
+          "aggregation": "mean",
+          "total": null,
+          "missing": "reject",
+          "thresholds": null
+        },
+        "dimensions": [
+          {
+            "id": "adoption",
+            "name": "采纳意愿",
+            "description": "描述在合适任务中尝试AI的意愿，不是AI操作能力。"
+          },
+          {
+            "id": "concern",
+            "name": "风险担忧",
+            "description": "描述对AI出错、隐私和依赖的担忧程度，不与采纳意愿互为反向。"
+          },
+          {
+            "id": "caution",
+            "name": "审慎使用",
+            "description": "描述核查、保护信息和保留判断的自报倾向，不是道德评分。"
+          }
+        ],
+        "items": [
+          {
+            "id": "ai-attitude-1-1",
+            "text": "面对合适的学习任务，我愿意尝试AI工具。",
+            "dimensionId": "adoption",
+            "reverse": false,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-1-2",
+            "text": "我愿意花时间了解AI能够如何辅助我的工作。",
+            "dimensionId": "adoption",
+            "reverse": false,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-1-3",
+            "text": "即使任务合适，我也不太愿意尝试AI。",
+            "dimensionId": "adoption",
+            "reverse": true,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-1-4",
+            "text": "我通常不愿探索AI工具的新用途。",
+            "dimensionId": "adoption",
+            "reverse": true,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-2-1",
+            "text": "使用AI时，我担心看似合理的内容可能是错的。",
+            "dimensionId": "concern",
+            "reverse": false,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-2-2",
+            "text": "我会担忧输入AI的信息被用于意料之外的用途。",
+            "dimensionId": "concern",
+            "reverse": false,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-2-3",
+            "text": "AI可能带来的偏差很少让我担心。",
+            "dimensionId": "concern",
+            "reverse": true,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-2-4",
+            "text": "我几乎不担心过度依赖AI会影响自己的判断。",
+            "dimensionId": "concern",
+            "reverse": true,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-3-1",
+            "text": "使用AI提供的关键事实前，我会另找来源核对。",
+            "dimensionId": "caution",
+            "reverse": false,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-3-2",
+            "text": "我会先考虑信息是否敏感，再决定是否输入AI。",
+            "dimensionId": "caution",
+            "reverse": false,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-3-3",
+            "text": "只要AI说得流畅，我就常常直接采用。",
+            "dimensionId": "caution",
+            "reverse": true,
+            "sourceId": "mindcompass-ai-attitude"
+          },
+          {
+            "id": "ai-attitude-3-4",
+            "text": "即使我不理解AI的推理，我也常照着它的结论行动。",
+            "dimensionId": "caution",
+            "reverse": true,
+            "sourceId": "mindcompass-ai-attitude"
+          }
+        ]
+      },
+      "started": 2,
+      "completed": 2,
+      "participants": 2,
+      "completionRate": 1,
+      "meanElapsedMinutes": 2.5122999999999998,
+      "dimensionStats": {
+        "adoption": {
+          "mean": 3.125,
+          "distribution": {
+            "3.25": 1,
+            "3.00": 1
+          },
+          "n": 2
+        },
+        "concern": {
+          "mean": 3,
+          "distribution": {
+            "3.00": 2
+          },
+          "n": 2
+        },
+        "caution": {
+          "mean": 2.875,
+          "distribution": {
+            "3.00": 1,
+            "2.75": 1
+          },
+          "n": 2
+        }
+      },
+      "itemDistributions": {
+        "ai-attitude-1-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "ai-attitude-1-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "ai-attitude-1-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "ai-attitude-1-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "ai-attitude-2-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "ai-attitude-2-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "ai-attitude-2-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "ai-attitude-2-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "ai-attitude-3-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "ai-attitude-3-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "ai-attitude-3-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "ai-attitude-3-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ]
+      }
+    },
+    {
+      "scale": {
+        "id": "bfi2",
+        "version": "zh-2022-web-2026-09-12",
+        "versionDate": "2026-09-12",
+        "name": "大五人格问卷 BFI-2",
+        "category": "personality",
+        "language": "zh-CN",
+        "purpose": "从五个宽泛维度与十五个子维度，探索日常人格特征。",
+        "minutes": "10–15",
+        "exploratory": false,
+        "instructions": "请判断下面的特征是否符合通常的自己。每项接在「我是一个……的人」之后理解。",
+        "limitations": "仅供教育与研究探索，不构成临床、医学或心理诊断，不能替代专业意见。不提供常模、百分位或正常/异常判断。结果受作答情境、自我报告与题目理解影响。使用张博、黎坚等研究中的中文版题目与评分键；本网站的呈现方式未单独验证，不能据此作个体诊断。子维度题目较少，解释需谨慎。",
+        "source": {
+          "id": "bfi2-zh",
+          "citation": "Soto & John (2017); Zhang, Li, Li, et al. (2022), Assessment, 29(6), 1262–1284. DOI: 10.1177/10731911211008245",
+          "url": "https://www.colby.edu/wp-content/uploads/2021/05/Zhang_et_al_in_press.pdf",
+          "permission": "© Soto & John；作者允许非商业研究使用：https://www.ocf.berkeley.edu/~johnlab/bfi.html；不得据此转为商业用途。",
+          "adaptation": "从作者托管论文附录录入中文版，题干未实质改写；移除纸面横线，空白规范化，屏幕显示一题。选项保留附录标签。"
+        },
+        "options": [
+          {
+            "value": 1,
+            "label": "非常不同意"
+          },
+          {
+            "value": 2,
+            "label": "不太同意"
+          },
+          {
+            "value": 3,
+            "label": "态度中立"
+          },
+          {
+            "value": 4,
+            "label": "比较同意"
+          },
+          {
+            "value": 5,
+            "label": "非常同意"
+          }
+        ],
+        "scoring": {
+          "min": 1,
+          "max": 5,
+          "aggregation": "mean",
+          "total": null,
+          "missing": "reject",
+          "thresholds": null
+        },
+        "dimensions": [
+          {
+            "id": "extraversion",
+            "name": "外向性",
+            "description": "描述交往、表达与活力。分数较高表示在这些题目上更认同外向的行为描述；较低可能偏向安静和独处，没有优劣之分。"
+          },
+          {
+            "id": "agreeableness",
+            "name": "宜人性",
+            "description": "描述关怀、礼让与信任倾向，不是道德评价。"
+          },
+          {
+            "id": "conscientiousness",
+            "name": "尽责性",
+            "description": "描述条理、效率与责任倾向，不代表工作能力排名。"
+          },
+          {
+            "id": "negative-emotionality",
+            "name": "负性情绪",
+            "description": "分数较高表示更认同担心、低落或情绪起伏的描述；这不是临床症状判定。"
+          },
+          {
+            "id": "open-mindedness",
+            "name": "开放性",
+            "description": "描述求知、审美与想象兴趣，不代表智力高低。"
+          },
+          {
+            "id": "sociability",
+            "name": "社交",
+            "parentId": "extraversion",
+            "description": "分数较高表示更认同主动交往、愿意与人交流的描述。"
+          },
+          {
+            "id": "assertiveness",
+            "name": "果断",
+            "parentId": "extraversion",
+            "description": "描述表达立场和承担主导角色的倾向。"
+          },
+          {
+            "id": "energy",
+            "name": "活力",
+            "parentId": "extraversion",
+            "description": "描述日常精力与热情。"
+          },
+          {
+            "id": "compassion",
+            "name": "同情",
+            "parentId": "agreeableness",
+            "description": "描述对他人感受的关注与关怀。"
+          },
+          {
+            "id": "respectfulness",
+            "name": "谦恭",
+            "parentId": "agreeableness",
+            "description": "描述尊重他人、保持礼让的倾向。"
+          },
+          {
+            "id": "trust",
+            "name": "信任",
+            "parentId": "agreeableness",
+            "description": "描述对他人意图的基本信任。"
+          },
+          {
+            "id": "organization",
+            "name": "条理",
+            "parentId": "conscientiousness",
+            "description": "描述计划、整理和维持秩序的倾向。"
+          },
+          {
+            "id": "productiveness",
+            "name": "效率",
+            "parentId": "conscientiousness",
+            "description": "描述启动任务和坚持完成的倾向。"
+          },
+          {
+            "id": "responsibility",
+            "name": "负责",
+            "parentId": "conscientiousness",
+            "description": "描述兑现承诺、可靠行事的倾向。"
+          },
+          {
+            "id": "anxiety",
+            "name": "焦虑倾向",
+            "parentId": "negative-emotionality",
+            "description": "描述紧张和担心的自报倾向，不是焦虑症筛查。"
+          },
+          {
+            "id": "depression",
+            "name": "低落倾向",
+            "parentId": "negative-emotionality",
+            "description": "对应原量表 Depression 子维度，仅描述低落体验，不是抑郁症诊断。"
+          },
+          {
+            "id": "volatility",
+            "name": "情绪易变",
+            "parentId": "negative-emotionality",
+            "description": "描述情绪起伏和易怒的倾向。"
+          },
+          {
+            "id": "curiosity",
+            "name": "好奇",
+            "parentId": "open-mindedness",
+            "description": "描述对知识和抽象想法的兴趣。"
+          },
+          {
+            "id": "aesthetic",
+            "name": "审美",
+            "parentId": "open-mindedness",
+            "description": "描述对艺术、文学与美感的兴趣。"
+          },
+          {
+            "id": "imagination",
+            "name": "想象",
+            "parentId": "open-mindedness",
+            "description": "描述创意与想象的倾向。"
+          }
+        ],
+        "items": [
+          {
+            "id": "BFI1",
+            "text": "性格外向，喜欢交际",
+            "dimensionId": "sociability",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI2",
+            "text": "心肠柔软，有同情心",
+            "dimensionId": "compassion",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI3",
+            "text": "缺乏条理",
+            "dimensionId": "organization",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI4",
+            "text": "从容，善于处理压力",
+            "dimensionId": "anxiety",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI5",
+            "text": "对艺术没有什么兴趣",
+            "dimensionId": "aesthetic",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI6",
+            "text": "性格坚定自信，敢于表达自己的观点",
+            "dimensionId": "assertiveness",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI7",
+            "text": "为人恭谦，尊重他人",
+            "dimensionId": "respectfulness",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI8",
+            "text": "比较懒",
+            "dimensionId": "productiveness",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI9",
+            "text": "经历挫折后仍能保持积极心态",
+            "dimensionId": "depression",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI10",
+            "text": "对许多不同的事物都感兴趣",
+            "dimensionId": "curiosity",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI11",
+            "text": "很少觉得兴奋或者特别想要(做)什么",
+            "dimensionId": "energy",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI12",
+            "text": "常常挑别人的毛病",
+            "dimensionId": "trust",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI13",
+            "text": "可信赖的，可靠的",
+            "dimensionId": "responsibility",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI14",
+            "text": "喜怒无常，情绪起伏较多",
+            "dimensionId": "volatility",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI15",
+            "text": "善于创造，能找到聪明的方法来做事",
+            "dimensionId": "imagination",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI16",
+            "text": "比较安静",
+            "dimensionId": "sociability",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI17",
+            "text": "对他人没有什么同情心",
+            "dimensionId": "compassion",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI18",
+            "text": "做事有计划有条理",
+            "dimensionId": "organization",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI19",
+            "text": "容易紧张",
+            "dimensionId": "anxiety",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI20",
+            "text": "着迷于艺术、音乐或文学",
+            "dimensionId": "aesthetic",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI21",
+            "text": "常常处于主导地位，像个领导一样",
+            "dimensionId": "assertiveness",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI22",
+            "text": "常与他人意见不和",
+            "dimensionId": "respectfulness",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI23",
+            "text": "很难开始行动起来去完成一项任务",
+            "dimensionId": "productiveness",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI24",
+            "text": "觉得有安全感，对自己满意",
+            "dimensionId": "depression",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI25",
+            "text": "不喜欢知识性或者哲学性强的讨论",
+            "dimensionId": "curiosity",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI26",
+            "text": "不如别人有活力",
+            "dimensionId": "energy",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI27",
+            "text": "宽宏大量",
+            "dimensionId": "trust",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI28",
+            "text": "有时比较没有责任心",
+            "dimensionId": "responsibility",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI29",
+            "text": "情绪稳定，不易生气",
+            "dimensionId": "volatility",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI30",
+            "text": "几乎没有什么创造性",
+            "dimensionId": "imagination",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI31",
+            "text": "有时会害羞，比较内向",
+            "dimensionId": "sociability",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI32",
+            "text": "乐于助人，待人无私",
+            "dimensionId": "compassion",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI33",
+            "text": "习惯让事物保持整洁有序",
+            "dimensionId": "organization",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI34",
+            "text": "时常忧心忡忡，担心很多事情",
+            "dimensionId": "anxiety",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI35",
+            "text": "重视艺术与审美",
+            "dimensionId": "aesthetic",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI36",
+            "text": "感觉自己很难对他人产生影响",
+            "dimensionId": "assertiveness",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI37",
+            "text": "有时对人比较粗鲁",
+            "dimensionId": "respectfulness",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI38",
+            "text": "有效率，做事有始有终",
+            "dimensionId": "productiveness",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI39",
+            "text": "时常觉得悲伤",
+            "dimensionId": "depression",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI40",
+            "text": "思想深刻",
+            "dimensionId": "curiosity",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI41",
+            "text": "精力充沛",
+            "dimensionId": "energy",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI42",
+            "text": "不相信别人，怀疑别人的意图",
+            "dimensionId": "trust",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI43",
+            "text": "可靠的，总是值得他人信赖",
+            "dimensionId": "responsibility",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI44",
+            "text": "能够控制自己的情绪",
+            "dimensionId": "volatility",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI45",
+            "text": "缺乏想象力",
+            "dimensionId": "imagination",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI46",
+            "text": "爱说话，健谈",
+            "dimensionId": "sociability",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI47",
+            "text": "有时对人冷淡，漠不关心",
+            "dimensionId": "compassion",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI48",
+            "text": "乱糟糟的，不爱收拾",
+            "dimensionId": "organization",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI49",
+            "text": "很少觉得焦虑或者害怕",
+            "dimensionId": "anxiety",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI50",
+            "text": "觉得诗歌、戏剧很无聊",
+            "dimensionId": "aesthetic",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI51",
+            "text": "更喜欢让别人来领头负责",
+            "dimensionId": "assertiveness",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI52",
+            "text": "待人谦逊礼让",
+            "dimensionId": "respectfulness",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI53",
+            "text": "有恒心，能坚持把事情做完",
+            "dimensionId": "productiveness",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI54",
+            "text": "时常觉得郁郁寡欢",
+            "dimensionId": "depression",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI55",
+            "text": "对抽象的概念和想法没什么兴趣",
+            "dimensionId": "curiosity",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI56",
+            "text": "充满热情",
+            "dimensionId": "energy",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI57",
+            "text": "把人往最好的方面想",
+            "dimensionId": "trust",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI58",
+            "text": "有时候会做出一些不负责任的行为",
+            "dimensionId": "responsibility",
+            "reverse": true,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI59",
+            "text": "情绪多变，容易愤怒",
+            "dimensionId": "volatility",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          },
+          {
+            "id": "BFI60",
+            "text": "有创意，能想出新点子",
+            "dimensionId": "imagination",
+            "reverse": false,
+            "sourceId": "bfi2-zh"
+          }
+        ]
+      },
+      "started": 1,
+      "completed": 0,
+      "participants": 0,
+      "completionRate": 0,
+      "meanElapsedMinutes": null,
+      "dimensionStats": {
+        "extraversion": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "agreeableness": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "conscientiousness": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "negative-emotionality": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "open-mindedness": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "sociability": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "assertiveness": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "energy": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "compassion": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "respectfulness": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "trust": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "organization": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "productiveness": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "responsibility": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "anxiety": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "depression": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "volatility": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "curiosity": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "aesthetic": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "imagination": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        }
+      },
+      "itemDistributions": {
+        "BFI1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI5": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI6": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI7": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI8": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI9": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI10": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI11": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI12": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI13": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI14": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI15": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI16": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI17": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI18": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI19": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI20": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI21": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI22": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI23": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI24": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI25": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI26": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI27": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI28": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI29": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI30": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI31": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI32": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI33": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI34": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI35": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI36": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI37": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI38": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI39": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI40": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI41": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI42": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI43": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI44": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI45": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI46": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI47": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI48": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI49": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI50": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI51": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI52": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI53": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI54": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI55": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI56": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI57": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI58": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI59": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "BFI60": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "scale": {
+        "id": "love-attitudes",
+        "version": "exploratory-2026-09-12",
+        "versionDate": "2026-09-12",
+        "name": "爱情态度探索（42题）",
+        "category": "personality",
+        "purpose": "从Lee爱情颜色理论的六种取向，探索关系中的期待与态度。",
+        "minutes": "8–12",
+        "language": "zh-CN",
+        "exploratory": true,
+        "instructions": "请根据自己的通常态度作答，而不是别人期待你怎样回答。可想着当前或最近的重要恋爱关系；没有恋爱经历时，可按自己的关系期待回答。",
+        "limitations": "仅供教育与研究探索，不构成临床、医学或心理诊断，不能替代专业意见。不提供常模、百分位或正常/异常判断。结果受作答情境、自我报告与题目理解影响。探索性自编问卷，维度是理论启发下的设计假设，尚未验证因子结构或信效度。用户指定LAS-42，但截至本版未核实42题中文版本及再发布许可。因此本问卷是Lee六取向框架启发的42道原创题，不是LAS-42原题、译本或替代性标准测验；分数不可与LAS研究直接比较。六维框架参考Hendrick等研究。",
+        "source": {
+          "id": "mindcompass-love-attitudes",
+          "citation": "MindCompass 项目原创题目（AI辅助起草，2026-09-12）；待人工认知访谈与审核。",
+          "url": "https://journals.sagepub.com/doi/10.1177/0265407598152001",
+          "permission": "项目本次原创中文措辞，不复制第三方量表题干；仅用于本项目教育/研究探索。",
+          "adaptation": "用户指定LAS-42，但截至本版未核实42题中文版本及再发布许可。因此本问卷是Lee六取向框架启发的42道原创题，不是LAS-42原题、译本或替代性标准测验；分数不可与LAS研究直接比较。六维框架参考Hendrick等研究。"
+        },
+        "options": [
+          {
+            "value": 1,
+            "label": "非常不同意"
+          },
+          {
+            "value": 2,
+            "label": "不同意"
+          },
+          {
+            "value": 3,
+            "label": "不确定"
+          },
+          {
+            "value": 4,
+            "label": "同意"
+          },
+          {
+            "value": 5,
+            "label": "非常同意"
+          }
+        ],
+        "scoring": {
+          "min": 1,
+          "max": 5,
+          "aggregation": "mean",
+          "total": null,
+          "missing": "reject",
+          "thresholds": null
+        },
+        "dimensions": [
+          {
+            "id": "eros",
+            "name": "激情取向",
+            "description": "描述对浪漫吸引和亲密互动的重视，不评价关系质量。"
+          },
+          {
+            "id": "ludus",
+            "name": "游戏取向",
+            "description": "描述偏好轻松、多变、较少承诺的恋爱互动；不对关系选择作道德判断。"
+          },
+          {
+            "id": "storge",
+            "name": "友伴取向",
+            "description": "描述从了解、信任和共同生活经验中发展亲密感的倾向。"
+          },
+          {
+            "id": "pragma",
+            "name": "现实取向",
+            "description": "描述在关系选择中考虑生活安排和长期兼容性的倾向。"
+          },
+          {
+            "id": "mania",
+            "name": "依恋不安取向",
+            "description": "描述恋爱中的关注需求与失去关系的担忧；不是临床标签。"
+          },
+          {
+            "id": "agape",
+            "name": "关怀付出取向",
+            "description": "描述愿意支持和照顾伴侣的倾向；高分不意味着应牺牲个人边界。"
+          }
+        ],
+        "items": [
+          {
+            "id": "love-attitudes-1-1",
+            "text": "在关系中，浪漫的吸引力对我很重要。",
+            "dimensionId": "eros",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-1-2",
+            "text": "我会留意与伴侣相处时是否有心动的感觉。",
+            "dimensionId": "eros",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-1-3",
+            "text": "我期待与伴侣分享带有浪漫意味的时刻。",
+            "dimensionId": "eros",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-1-4",
+            "text": "对我来说，恋爱需要有区别于普通友谊的吸引。",
+            "dimensionId": "eros",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-1-5",
+            "text": "我愿意主动表达对伴侣的欣赏与爱意。",
+            "dimensionId": "eros",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-1-6",
+            "text": "有没有浪漫感觉，对我的恋爱体验并不重要。",
+            "dimensionId": "eros",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-1-7",
+            "text": "在亲密关系中，我很少看重彼此的吸引力。",
+            "dimensionId": "eros",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-2-1",
+            "text": "开始一段关系时，我更在意轻松有趣，而不是长远规划。",
+            "dimensionId": "ludus",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-2-2",
+            "text": "恋爱中的新鲜感对我很有吸引力。",
+            "dimensionId": "ludus",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-2-3",
+            "text": "我倾向于先体验相处，再考虑是否作出承诺。",
+            "dimensionId": "ludus",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-2-4",
+            "text": "我不喜欢关系很快变得严肃而有约束。",
+            "dimensionId": "ludus",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-2-5",
+            "text": "我希望在恋爱中保留较多不受安排的空间。",
+            "dimensionId": "ludus",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-2-6",
+            "text": "我开始恋爱时，通常已经重视长期承诺。",
+            "dimensionId": "ludus",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-2-7",
+            "text": "比起变化与刺激，我更看重稳定明确的关系。",
+            "dimensionId": "ludus",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-3-1",
+            "text": "充分了解彼此的日常，是我发展爱情的重要基础。",
+            "dimensionId": "storge",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-3-2",
+            "text": "我希望伴侣也是可以自在聊天的朋友。",
+            "dimensionId": "storge",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-3-3",
+            "text": "我愿意让亲密感随着相处慢慢发展。",
+            "dimensionId": "storge",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-3-4",
+            "text": "一起经历平凡的小事，会增进我的爱意。",
+            "dimensionId": "storge",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-3-5",
+            "text": "彼此的默契比突然的心动更让我踏实。",
+            "dimensionId": "storge",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-3-6",
+            "text": "对我来说，恋爱不需要多少朋友般的相处。",
+            "dimensionId": "storge",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-3-7",
+            "text": "我很少把共同经历看作爱情的重要基础。",
+            "dimensionId": "storge",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-4-1",
+            "text": "发展关系前，我会考虑双方未来的生活计划。",
+            "dimensionId": "pragma",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-4-2",
+            "text": "我看重伴侣与我对重要生活问题是否有相近看法。",
+            "dimensionId": "pragma",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-4-3",
+            "text": "我会思考我们能否共同处理日常责任。",
+            "dimensionId": "pragma",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-4-4",
+            "text": "我倾向于了解双方解决实际问题的方式。",
+            "dimensionId": "pragma",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-4-5",
+            "text": "长期相处是否可行，会影响我的关系选择。",
+            "dimensionId": "pragma",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-4-6",
+            "text": "关系中的现实安排几乎不会进入我的考虑。",
+            "dimensionId": "pragma",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-4-7",
+            "text": "我很少考虑两个人的长远目标能否协调。",
+            "dimensionId": "pragma",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-5-1",
+            "text": "在恋爱中，我容易反复猜测对方是否还在意我。",
+            "dimensionId": "mania",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-5-2",
+            "text": "伴侣回复变少时，我常会担心我们的关系。",
+            "dimensionId": "mania",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-5-3",
+            "text": "我需要较多来自伴侣的确认，才会感到安心。",
+            "dimensionId": "mania",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-5-4",
+            "text": "关系出现小变化时，我会花很多精力去想原因。",
+            "dimensionId": "mania",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-5-5",
+            "text": "我有时会因为担心失去对方而难以专注其他事情。",
+            "dimensionId": "mania",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-5-6",
+            "text": "短暂联系不上伴侣时，我通常仍能保持安心。",
+            "dimensionId": "mania",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-5-7",
+            "text": "关系中有一点距离时，我很少马上担心被放弃。",
+            "dimensionId": "mania",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-6-1",
+            "text": "伴侣遇到困难时，我愿意花时间理解其需要。",
+            "dimensionId": "agape",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-6-2",
+            "text": "我会为伴侣的重要目标提供实际支持。",
+            "dimensionId": "agape",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-6-3",
+            "text": "我愿意在双方协商后调整自己的安排来帮助伴侣。",
+            "dimensionId": "agape",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-6-4",
+            "text": "即使回报不立即出现，我也愿意表达关心。",
+            "dimensionId": "agape",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-6-5",
+            "text": "看到伴侣获得成长，我会为对方高兴。",
+            "dimensionId": "agape",
+            "reverse": false,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-6-6",
+            "text": "当帮助伴侣很费心时，我通常不愿投入。",
+            "dimensionId": "agape",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          },
+          {
+            "id": "love-attitudes-6-7",
+            "text": "如果一时得不到同等回报，我就很难继续关心伴侣。",
+            "dimensionId": "agape",
+            "reverse": true,
+            "sourceId": "mindcompass-love-attitudes"
+          }
+        ]
+      },
+      "started": 1,
+      "completed": 1,
+      "participants": 1,
+      "completionRate": 1,
+      "meanElapsedMinutes": 73.54741666666666,
+      "dimensionStats": {
+        "eros": {
+          "mean": 3.7142857142857144,
+          "distribution": {
+            "3.71": 1
+          },
+          "n": 1
+        },
+        "ludus": {
+          "mean": 2.857142857142857,
+          "distribution": {
+            "2.86": 1
+          },
+          "n": 1
+        },
+        "storge": {
+          "mean": 3.857142857142857,
+          "distribution": {
+            "3.86": 1
+          },
+          "n": 1
+        },
+        "pragma": {
+          "mean": 3.142857142857143,
+          "distribution": {
+            "3.14": 1
+          },
+          "n": 1
+        },
+        "mania": {
+          "mean": 3.5714285714285716,
+          "distribution": {
+            "3.57": 1
+          },
+          "n": 1
+        },
+        "agape": {
+          "mean": 4.285714285714286,
+          "distribution": {
+            "4.29": 1
+          },
+          "n": 1
+        }
+      },
+      "itemDistributions": {
+        "love-attitudes-1-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-1-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-1-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-1-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-1-5": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "love-attitudes-1-6": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-1-7": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-2-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-2-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-2-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-2-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-2-5": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-2-6": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-2-7": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-3-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "love-attitudes-3-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "love-attitudes-3-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-3-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "love-attitudes-3-5": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-3-6": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-3-7": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-4-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-4-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-4-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-4-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-4-5": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-4-6": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-4-7": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-5-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-5-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-5-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-5-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-5-5": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-5-6": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-5-7": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-6-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "love-attitudes-6-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-6-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-6-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "love-attitudes-6-5": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "love-attitudes-6-6": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "love-attitudes-6-7": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "scale": {
+        "id": "tripm",
+        "version": "original-en-zh-gloss-2026-09-12",
+        "versionDate": "2026-09-12",
+        "name": "三元人格特质 TriPM",
+        "category": "personality",
+        "language": "en + zh-CN project translation",
+        "exploratory": true,
+        "purpose": "以公开原版的三维结构，探索大胆性、人际关切与行为抑制相关倾向。",
+        "minutes": "10–15",
+        "instructions": "本项目保留公开原版58题、四级选项与0–3计分。中文为项目辅助译文，未经回译验证；英文原题同步显示。请选择最符合自己的描述，没有对错。题目涉及不愉快或违规经历，不愿回答时可退出并清除草稿。",
+        "limitations": "仅供教育与研究探索，不构成临床、医学或心理诊断，不能替代专业意见。不提供常模、百分位或正常/异常判断。结果受作答情境、自我报告与题目理解影响。英文题目和评分键取自公开原版；中文辅助译文尚未经过独立双语回译和中文样本验证，所以本次中文使用仅属探索性。维度及总和不是风险等级，也不能据此判断任何人是否属于某类人格。",
+        "source": {
+          "id": "phenx-tripm",
+          "citation": "Patrick (2010), Triarchic Psychopathy Measure; PhenX PX121601.",
+          "url": "https://phenxtoolkit.org/protocols/view/121601?origin=domain",
+          "permission": "PhenX 标注 freely available; permission not required for use。",
+          "adaptation": "英文原题、题号、反向键及0–3计分保留；中文为项目辅助译文，未经独立回译验证，不冒称标准中文版。"
+        },
+        "options": [
+          {
+            "value": 3,
+            "label": "符合（True）"
+          },
+          {
+            "value": 2,
+            "label": "比较符合（Somewhat true）"
+          },
+          {
+            "value": 1,
+            "label": "比较不符合（Somewhat false）"
+          },
+          {
+            "value": 0,
+            "label": "不符合（False）"
+          }
+        ],
+        "scoring": {
+          "min": 0,
+          "max": 3,
+          "aggregation": "sum",
+          "total": "sum",
+          "missing": "reject",
+          "thresholds": null
+        },
+        "dimensions": [
+          {
+            "id": "boldness",
+            "name": "大胆性",
+            "description": "描述社交自信、压力下的镇定和对不确定情境的接受倾向。"
+          },
+          {
+            "id": "meanness",
+            "name": "冷酷倾向",
+            "description": "描述题目中对他人感受较少关切、较疏离或对抗的自报倾向。这是维度名称，不是对你的道德或人格定性。"
+          },
+          {
+            "id": "disinhibition",
+            "name": "去抑制",
+            "description": "描述冲动、计划不足或行为控制困难的自报倾向，不能据此预测违规或作临床判断。"
+          }
+        ],
+        "items": [
+          {
+            "id": "TP1",
+            "text": "大多数时候，我是乐观的。",
+            "originalText": "I’m optimistic more often than not.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP2",
+            "text": "他人的感受对我很重要。",
+            "originalText": "How other people feel is important to me.",
+            "dimensionId": "meanness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP3",
+            "text": "我常常按眼前的需要采取行动。",
+            "originalText": "I often act on immediate needs.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP4",
+            "text": "我没有很强的从飞机上跳伞的愿望。",
+            "originalText": "I have no strong desire to parachute out of an airplane.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP5",
+            "text": "我常常没有参加自己答应要出席的事情。",
+            "originalText": "I’ve often missed things I promised to attend.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP6",
+            "text": "我会享受高速追逐的体验。",
+            "originalText": "I would enjoy being in a high-speed chase.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP7",
+            "text": "我很有能力应对压力。",
+            "originalText": "I am well-equipped to deal with stress.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP8",
+            "text": "如果我不喜欢的人受到伤害，我并不介意。",
+            "originalText": "I don’t mind if someone I dislike gets hurt.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP9",
+            "text": "我的冲动决定曾给我与亲近之人的关系带来问题。",
+            "originalText": "My impulsive decisions have caused problems with loved ones.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP10",
+            "text": "我很容易感到害怕。",
+            "originalText": "I get scared easily.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP11",
+            "text": "我对他人遇到的困难抱有同情。",
+            "originalText": "I sympathize with others’ problems.",
+            "dimensionId": "meanness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP12",
+            "text": "我曾缺勤，却没有打电话告知。",
+            "originalText": "I have missed work without bothering to call in.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP13",
+            "text": "我天生适合做领导者。",
+            "originalText": "I’m a born leader.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP14",
+            "text": "我喜欢痛快地打上一架。",
+            "originalText": "I enjoy a good physical fight.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP15",
+            "text": "我会不经思考就着手做事。",
+            "originalText": "I jump into things without thinking.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP16",
+            "text": "我很难让事情按自己的愿望发展。",
+            "originalText": "I have a hard time making things turn out the way I want.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP17",
+            "text": "别人侮辱我时，我会回骂。",
+            "originalText": "I return insults.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP18",
+            "text": "我曾因为缺课太多而惹上麻烦。",
+            "originalText": "I’ve gotten in trouble because I missed too much school.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP19",
+            "text": "我擅长影响他人。",
+            "originalText": "I have a knack for influencing people.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP20",
+            "text": "看到别人痛苦并不会让我感到不安。",
+            "originalText": "It doesn’t bother me to see someone else in pain.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP21",
+            "text": "我有良好的自我控制能力。",
+            "originalText": "I have good control over myself.",
+            "dimensionId": "disinhibition",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP22",
+            "text": "即使没有准备，我在新情境中也能应对自如。",
+            "originalText": "I function well in new situations, even when unprepared.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP23",
+            "text": "有时我喜欢摆布别人。",
+            "originalText": "I enjoy pushing people around sometimes.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP24",
+            "text": "我曾未经允许从别人的钱包里拿钱。",
+            "originalText": "I have taken money from someone’s purse or wallet without asking.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP25",
+            "text": "我不认为自己有才能。",
+            "originalText": "I don’t think of myself as talented.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP26",
+            "text": "我会为了挑起事端而嘲弄别人。",
+            "originalText": "I taunt people just to stir things up.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP27",
+            "text": "别人常常辜负我的信任。",
+            "originalText": "People often abuse my trust.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP28",
+            "text": "与大多数人相比，让我害怕的事情少得多。",
+            "originalText": "I’m afraid of far fewer things than most people.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP29",
+            "text": "我觉得没有必要担心自己的行为是否会伤害别人。",
+            "originalText": "I don’t see any point in worrying if what I do hurts someone else.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP30",
+            "text": "我会遵守自己约好的安排。",
+            "originalText": "I keep appointments I make.",
+            "dimensionId": "disinhibition",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP31",
+            "text": "我常常很快就感到无聊并失去兴趣。",
+            "originalText": "I often get bored quickly and lose interest.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP32",
+            "text": "一些会让别人受到严重打击的事情，我能够从中恢复。",
+            "originalText": "I can get over things that would traumatize others.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP33",
+            "text": "我对别人的感受很敏感。",
+            "originalText": "I am sensitive to the feelings of others.",
+            "dimensionId": "meanness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP34",
+            "text": "我曾欺骗别人以获取他们的钱。",
+            "originalText": "I have conned people to get money from them.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP35",
+            "text": "在不知道全部细节的情况下进入陌生情境，会让我担心。",
+            "originalText": "It worries me to go into an unfamiliar situation without knowing all the details.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP36",
+            "text": "我对别人没有太多同情。",
+            "originalText": "I don’t have much sympathy for people.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP37",
+            "text": "我会因为不考虑行为后果而惹上麻烦。",
+            "originalText": "I get in trouble for not considering the consequences of my actions.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP38",
+            "text": "我能说服别人按我的意愿行事。",
+            "originalText": "I can convince people to do what I want.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP39",
+            "text": "对我而言，诚实确实是最好的处事方式。",
+            "originalText": "For me, honesty really is the best policy.",
+            "dimensionId": "meanness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP40",
+            "text": "我曾为了看到别人痛苦而伤害他们。",
+            "originalText": "I’ve injured people to see them in pain.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP41",
+            "text": "我不喜欢在群体中带头。",
+            "originalText": "I don’t like to take the lead in groups.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP42",
+            "text": "我有时会故意侮辱别人，以引起他们的反应。",
+            "originalText": "I sometimes insult people on purpose to get a reaction from them.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP43",
+            "text": "我曾从商店拿走物品而没有付款。",
+            "originalText": "I have taken items from a store without paying for them.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP44",
+            "text": "我很容易感到难堪。",
+            "originalText": "It’s easy to embarrass me.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP45",
+            "text": "带一点危险的事情会更有趣。",
+            "originalText": "Things are more fun if a little danger is involved.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP46",
+            "text": "对于自己想要的东西，我很难耐心等待。",
+            "originalText": "I have a hard time waiting patiently for things I want.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP47",
+            "text": "我会尽可能避开人身危险。",
+            "originalText": "I stay away from physical danger as much as I can.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP48",
+            "text": "我不太在意自己的行为是否伤害别人。",
+            "originalText": "I don’t care much if what I do hurts others.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP49",
+            "text": "我曾因自己不负责任的行为而失去朋友。",
+            "originalText": "I have lost a friend because of irresponsible things I’ve done.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP50",
+            "text": "与大多数人相比，我觉得自己不够出色。",
+            "originalText": "I don’t stack up well against most others.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP51",
+            "text": "别人曾告诉我，他们担心我缺乏自我控制。",
+            "originalText": "Others have told me they are concerned about my lack of self-control.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP52",
+            "text": "我很容易体会到别人的情绪。",
+            "originalText": "It’s easy for me to relate to other people’s emotions.",
+            "dimensionId": "meanness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP53",
+            "text": "我曾抢劫过别人。",
+            "originalText": "I have robbed someone.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP54",
+            "text": "我从不担心在别人面前出丑。",
+            "originalText": "I never worry about making a fool of myself with others.",
+            "dimensionId": "boldness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP55",
+            "text": "周围的人在受苦时，我并不会因此感到不安。",
+            "originalText": "It doesn’t bother me when people around me are hurting.",
+            "dimensionId": "meanness",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP56",
+            "text": "我曾因为不负责任而在工作中遇到问题。",
+            "originalText": "I have had problems at work because I was irresponsible.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP57",
+            "text": "我不太擅长影响别人。",
+            "originalText": "I’m not very good at influencing people.",
+            "dimensionId": "boldness",
+            "reverse": true,
+            "sourceId": "phenx-tripm"
+          },
+          {
+            "id": "TP58",
+            "text": "我曾从车辆里偷过东西。",
+            "originalText": "I have stolen something out of a vehicle.",
+            "dimensionId": "disinhibition",
+            "reverse": false,
+            "sourceId": "phenx-tripm"
+          }
+        ]
+      },
+      "started": 1,
+      "completed": 0,
+      "participants": 0,
+      "completionRate": 0,
+      "meanElapsedMinutes": null,
+      "dimensionStats": {
+        "boldness": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "meanness": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        },
+        "disinhibition": {
+          "mean": null,
+          "distribution": {},
+          "n": 0
+        }
+      },
+      "itemDistributions": {
+        "TP1": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP2": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP3": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP4": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP5": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP6": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP7": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP8": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP9": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP10": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP11": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP12": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP13": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP14": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP15": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP16": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP17": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP18": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP19": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP20": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP21": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP22": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP23": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP24": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP25": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP26": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP27": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP28": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP29": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP30": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP31": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP32": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP33": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP34": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP35": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP36": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP37": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP38": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP39": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP40": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP41": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP42": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP43": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP44": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP45": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP46": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP47": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP48": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP49": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP50": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP51": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP52": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP53": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP54": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP55": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP56": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP57": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ],
+        "TP58": [
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 0,
+            "count": 0
+          }
+        ]
+      }
+    },
+    {
+      "scale": {
+        "id": "risk-taking",
+        "version": "exploratory-2026-09-12",
+        "versionDate": "2026-09-12",
+        "name": "冒险倾向",
+        "category": "attitudes",
+        "purpose": "探索社交、新体验与任务情境中面对不确定性的态度。",
+        "minutes": "3–5",
+        "language": "zh-CN",
+        "exploratory": true,
+        "instructions": "请根据自己的通常态度作答，而不是别人期待你怎样回答。",
+        "limitations": "仅供教育与研究探索，不构成临床、医学或心理诊断，不能替代专业意见。不提供常模、百分位或正常/异常判断。结果受作答情境、自我报告与题目理解影响。探索性自编问卷，维度是理论启发下的设计假设，尚未验证因子结构或信效度。",
+        "source": {
+          "id": "mindcompass-risk-taking",
+          "citation": "MindCompass 项目原创题目（AI辅助起草，2026-09-12）；待人工认知访谈与审核。",
+          "url": "",
+          "permission": "项目本次原创中文措辞，不复制第三方量表题干；仅用于本项目教育/研究探索。",
+          "adaptation": "依据产品测量目标新编，不宣称改编自已验证量表。"
+        },
+        "options": [
+          {
+            "value": 1,
+            "label": "非常不同意"
+          },
+          {
+            "value": 2,
+            "label": "不同意"
+          },
+          {
+            "value": 3,
+            "label": "不确定"
+          },
+          {
+            "value": 4,
+            "label": "同意"
+          },
+          {
+            "value": 5,
+            "label": "非常同意"
+          }
+        ],
+        "scoring": {
+          "min": 1,
+          "max": 5,
+          "aggregation": "mean",
+          "total": null,
+          "missing": "reject",
+          "thresholds": null
+        },
+        "dimensions": [
+          {
+            "id": "social",
+            "name": "社交表达",
+            "description": "描述在不确定他人反应时表达和参与的倾向。"
+          },
+          {
+            "id": "novelty",
+            "name": "新体验",
+            "description": "描述愿意走出熟悉经验、尝试新活动的倾向。"
+          },
+          {
+            "id": "uncertainty",
+            "name": "任务不确定性",
+            "description": "描述在结果未明时探索解决方法的倾向，不提供现实高风险决策建议。"
+          }
+        ],
+        "items": [
+          {
+            "id": "risk-taking-1-1",
+            "text": "即使不知道他人如何回应，我也愿意提出自己的想法。",
+            "dimensionId": "social",
+            "reverse": false,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-1-2",
+            "text": "在不熟悉的群体里，我愿意主动开启交流。",
+            "dimensionId": "social",
+            "reverse": false,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-1-3",
+            "text": "只要存在被否定的可能，我就倾向于不表达意见。",
+            "dimensionId": "social",
+            "reverse": true,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-1-4",
+            "text": "面对陌生人时，我通常避免主动交流。",
+            "dimensionId": "social",
+            "reverse": true,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-2-1",
+            "text": "在基本了解活动要求后，我愿意尝试自己没做过的事情。",
+            "dimensionId": "novelty",
+            "reverse": false,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-2-2",
+            "text": "我喜欢体验无法完全预料过程的新活动。",
+            "dimensionId": "novelty",
+            "reverse": false,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-2-3",
+            "text": "如果无法确定体验会如何，我通常不会参加。",
+            "dimensionId": "novelty",
+            "reverse": true,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-2-4",
+            "text": "即使条件允许，我也更愿意只做熟悉的活动。",
+            "dimensionId": "novelty",
+            "reverse": true,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-3-1",
+            "text": "有一定失败可能时，我仍愿意尝试新的解题方法。",
+            "dimensionId": "uncertainty",
+            "reverse": false,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-3-2",
+            "text": "面对没有明确答案的任务，我愿意先做小规模探索。",
+            "dimensionId": "uncertainty",
+            "reverse": false,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-3-3",
+            "text": "只要方法没有被充分证实，我就不愿尝试。",
+            "dimensionId": "uncertainty",
+            "reverse": true,
+            "sourceId": "mindcompass-risk-taking"
+          },
+          {
+            "id": "risk-taking-3-4",
+            "text": "任务结果不确定时，我倾向于回避承担尝试的角色。",
+            "dimensionId": "uncertainty",
+            "reverse": true,
+            "sourceId": "mindcompass-risk-taking"
+          }
+        ]
+      },
+      "started": 1,
+      "completed": 1,
+      "participants": 1,
+      "completionRate": 1,
+      "meanElapsedMinutes": 1.6061166666666666,
+      "dimensionStats": {
+        "social": {
+          "mean": 2.75,
+          "distribution": {
+            "2.75": 1
+          },
+          "n": 1
+        },
+        "novelty": {
+          "mean": 3.5,
+          "distribution": {
+            "3.50": 1
+          },
+          "n": 1
+        },
+        "uncertainty": {
+          "mean": 3.75,
+          "distribution": {
+            "3.75": 1
+          },
+          "n": 1
+        }
+      },
+      "itemDistributions": {
+        "risk-taking-1-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-1-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-1-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-1-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-2-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-2-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-2-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-2-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-3-1": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 1
+          }
+        ],
+        "risk-taking-3-2": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-3-3": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ],
+        "risk-taking-3-4": [
+          {
+            "value": 1,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 5,
+            "count": 0
+          }
+        ]
+      }
+    }
+  ],
+  "feedback": [],
+  "operations": {
+    "authenticatedAdmin": true,
+    "adminAuthConfigured": true,
+    "appOriginConfigured": true,
+    "appOriginMatches": true,
+    "contactConfigured": true,
+    "scheduledCleanup": {
+      "ranAt": 1789322403840,
+      "expiredDrafts": 0,
+      "deletedAttempts": 0,
+      "deletedFeedback": 0,
+      "deletedParticipants": 0
+    },
+    "manualCleanup": null
+  },
+  "asOf": 1789364433496,
+  "sampling": "每参与者、每量表版本的首个已完成测量用于均值与分布；完成率以全部开始次数为分母。"
+}
